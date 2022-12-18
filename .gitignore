@@ -1,0 +1,21 @@
+## VSCODE STUFF
+*.vscode
+
+## MAC STUFF
+.DS_Store
+
+## WINDOWS STUFF
+Thumbs.db
+
+## LINUX STUFF
+.DS_Store
+
+## NODE STUFF
+node_modules
+
+## NPM STUFF
+package-lock.json
+
+## YARN STUFF
+yarn.lock
+

@@ -1,0 +1,13 @@
+{
+  "name": "discordwise",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "idahdam",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
